@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說舍衛國王十夢經
+#+DATE: 2015-08-30 19:32:58.743418
+#+PROPERTY: JUAN 0
